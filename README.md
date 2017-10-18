@@ -36,4 +36,4 @@ docker run --rm -it eirica/minideb-erlang:19.3 /opt/erlang/19.3/bin/erl -noshell
 
 ## License
 
-[MIT](../blob/master/LICENSE)
+[MIT](../master/LICENSE)
