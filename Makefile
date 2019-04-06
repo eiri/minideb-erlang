@@ -1,4 +1,4 @@
-IMAGE = eirica/minideb-erlang
+IMAGE = eiri/minideb-erlang
 VERSION ?= 20.1
 
 .PHONY: help
